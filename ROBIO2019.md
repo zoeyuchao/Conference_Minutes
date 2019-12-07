@@ -46,7 +46,7 @@ ROBIO会议是multi-track，所以只能找一些相关方向的听一听。
 
 
 ### mobile robot 3
-1.3D LIDAR map compression using DNN
+1. 3D LIDAR map compression using DNN
 
 <div align=center>
 <img  src="https://github.com/zoeyuchao/Conference_Minutes/blob/master/figure/ROBIO2019/1.jpg"  width="400" />
